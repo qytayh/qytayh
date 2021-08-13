@@ -1,4 +1,10 @@
-### Hi Joker is there 👋
+### 你好 👋
+
+😊很高兴你点开了我的主页😊
+
+- 🔭 I’m currently working on web engineer.
+- 📫 How to reach me: 13255238145@163.com
+- 😄 Learn more about me: https://qytayh.github.io/resume
 
 ![stats](https://github-readme-stats.vercel.app/api?username=qytayh&show_icons=true&theme=radical)
 
