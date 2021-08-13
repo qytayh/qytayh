@@ -1,6 +1,6 @@
-### 你好 👋
+### Nice to meet you 👋
 
-😊很高兴你点开了我的主页😊
+😊I'm glad that you clicked on my home page.😊
 
 - 🔭 I’m currently working ae a web engineer.
 - 📫 How to reach me: 13255238145@163.com
