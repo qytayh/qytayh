@@ -2,7 +2,7 @@
 
 😊很高兴你点开了我的主页😊
 
-- 🔭 I’m currently working on web engineer.
+- 🔭 I’m currently working ae a web engineer.
 - 📫 How to reach me: 13255238145@163.com
 - 😄 Learn more about me: https://qytayh.github.io/resume
 
