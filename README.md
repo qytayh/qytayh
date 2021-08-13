@@ -1,7 +1,8 @@
 ### Hi Joker is there 👋
 
-[![Joker's GitHub stats](https://github-readme-stats.vercel.app/api?username=qytayh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=qytayh&show_icons=true&theme=radical)
 
+![activity graph](https://activity-graph.herokuapp.com/graph?username=qytayh&theme=dracula)
 
 <!--
 **qytayh/qytayh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
