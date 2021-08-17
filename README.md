@@ -6,7 +6,10 @@
 - 📫 How to reach me: 13255238145@163.com
 - 😄 Learn more about me: https://qytayh.github.io/resume
 
-![stats](https://github-readme-stats.vercel.app/api?username=qytayh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qytayh)
+
+![stats](https://github-readme-stats.vercel.app/api?username=qytayh&show_icons=true&theme=radical&layout=compact)
+
 
 ![activity graph](https://activity-graph.herokuapp.com/graph?username=qytayh&theme=dracula)
 
