@@ -6,7 +6,8 @@
 - 📫 How to reach me: 13255238145@163.com
 - 😄 Learn more about me: https://qytayh.github.io/resume
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qytayh)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qytayh) -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend">
 
 ![stats](https://github-readme-stats.vercel.app/api?username=qytayh&show_icons=true&theme=radical&layout=compact)
 
