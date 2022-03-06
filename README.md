@@ -13,13 +13,16 @@
 ![activity graph](https://activity-graph.herokuapp.com/graph?username=qytayh&theme=dracula)
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript        15 hrs 21 mins  ██████████████▓░░░░░░░░░░   58.91 % 
-Vue.js            2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-TypeScript        2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Protocol Buffer   2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-JSON              1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+JavaScript        10 hrs 56 mins  █████████████▒░░░░░░░░░░░   53.10 %
+HTML              3 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+Vue.js            2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+JSON              1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Protocol Buffer   55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+GitIgnore file    46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=qytayh)
