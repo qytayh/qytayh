@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js         9 hrs 13 mins   ███████████████▒░░░░░░░░░   61.84 %
-JavaScript     3 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   23.38 %
-Text           44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-textmate       36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-INI            23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
