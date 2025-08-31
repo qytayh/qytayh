@@ -15,11 +15,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js         3 hrs 58 mins   ███████████████▓░░░░░░░░░   62.74 %
-Bash           52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-Shell Script   39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-JavaScript     33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-textmate       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Vue.js       8 hrs 33 mins   ██████████████████████░░░   87.86 %
+JavaScript   1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
 ```
 
 <!--END_SECTION:waka-->
