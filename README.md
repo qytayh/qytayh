@@ -15,7 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown            1 hr 47 mins          ██████████████░░░░░░░░░░░   55.97 %
+Other               1 hr 4 mins           ████████▒░░░░░░░░░░░░░░░░   33.25 %
+Vue                 18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+textmate            2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+PHP                 0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
