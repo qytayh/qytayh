@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   4 hrs 11 mins         █████████████████▓░░░░░░░   71.28 %
-PHP        1 hr 4 mins           ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
-Vue        22 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Other      13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-SQL        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
